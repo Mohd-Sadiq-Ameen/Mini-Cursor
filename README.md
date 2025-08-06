@@ -3,6 +3,8 @@
 **Mini-Cursor** is a Python-based command-line assistant powered by Gemini (Google Generative AI).  
 It works in a smart **Step-by-Step planning mode** — where it plans, picks tools, performs actions, and gives you useful results.
 
+Linkedin Profile : https://www.linkedin.com/in/sadiq-ameen-657b90278/
+
 Perfect for:
 - Running system commands
 - Performing small tasks with tools like `run_command`, `get_weather`
@@ -62,3 +64,4 @@ You’ll see a prompt like this:
 
 ```bash
 > 
+
