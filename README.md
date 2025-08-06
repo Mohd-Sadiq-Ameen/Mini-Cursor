@@ -32,6 +32,8 @@ git clone https://github.com/Mohd-Sadiq-Ameen/Mini-Cursor.git
 
 ### 2. **Create Virtual Environment (optional)**
 
+Skip this step , not necessary if y are not familiar with VE
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
@@ -48,7 +50,8 @@ pip install openai python-dotenv requests
 ```
 
 ### 4. **Setup Environment Variables
-   Create a .env file in the root folder:
+   
+   Skip this step , api already provided in the code
 env
 ```bash
 GEMINI_API_KEY=your_google_gemini_api_key_here
