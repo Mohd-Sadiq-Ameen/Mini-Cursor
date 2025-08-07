@@ -12,7 +12,7 @@ load_dotenv()
 
 # client = wrap_openai(OpenAI())
 client = OpenAI(
-    api_key="AIzaSyA2WDfYcYjb3dXSbBEnU0SIN7Ey2Suxngc",
+    api_key=" ",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
