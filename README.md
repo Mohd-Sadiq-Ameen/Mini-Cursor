@@ -51,8 +51,9 @@ pip install openai python-dotenv requests
 
 ### 4. **Setup Environment Variables
    
-   Skip this step , api already provided in the code
-env
+  GO to 
+  "https://ai.google.dev/gemini-api/docs/api-key?gclsrc=aw.ds&gad_source=1&gad_campaignid=21521982195&gbraid=0AAAAACn9t66TPQC_6CtVhRc4PkZnRINCF&gclid=CjwKCAjw-svEBhB6EiwAEzSdrowUpIGM4o_qZVOUV0inwfLTrvLT0aRt4JuSblnSlIwYITRraBxS0RoCRIoQAvD_BwE"
+  Create your Gemini API Key , its free , and put it here
 ```bash
 GEMINI_API_KEY=your_google_gemini_api_key_here
 ```
